@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Oct 30 2025)
+
+#### 🐛 Bug Fix
+
+- blenders [#2](https://github.com/blendersb/container-ymjrlw0/pull/2) ([@blendersb](https://github.com/blendersb))
+
+#### Authors: 1
+
+- [@blendersb](https://github.com/blendersb)
+
+---
+
 # v0.0.1 (Thu Oct 30 2025)
 
 :tada: This release contains work from a new contributor! :tada:
